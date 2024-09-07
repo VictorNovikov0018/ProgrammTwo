@@ -1,0 +1,7 @@
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\bin\Debug\ProjectTest.exe.config
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\bin\Debug\ProjectTest.exe
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\bin\Debug\ProjectTest.pdb
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.AssemblyReference.cache
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.exe
+C:\Users\pidor\source\repos\ProjectTest\ProjectTest\obj\Debug\ProjectTest.pdb
